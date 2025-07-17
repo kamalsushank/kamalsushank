@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kamalsushank
-- 👀 I’m studying B Tech CSE at GITAM UNIVERSITY , Visakhapatnam
-- 🌱 I’m currently learning Web Development , DSA and Data Science .
+CSE student - trying to explore as many things as possible . 
+
 
 <!---
 kamalsushank/kamalsushank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
